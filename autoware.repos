@@ -118,14 +118,14 @@ repositories:
     url: https://github.com/tier4/pacmod_interface.git
     version: main
   # sensor_kit
-  sensor_kit/YOUR_SENSOR_KIT_launch:
+  sensor_kit/pacifica_sensor_kit_launch:
     type: git
-    url: https://github.com/YOUR_NAME/YOUR_SENSOR_KIT_launch.git
+    url: https://github.com/skill121790/autoware.dstester/pacifica_sensor_kit_launch.git
     version: main
   # vehicle
-  vehicle/YOUR_VEHICLE_launch:
+  vehicle/pacifica_vehicle_launch:
     type: git
-    url: https://github.com/YOUR_NAME/YOUR_VEHICLE_launch.git
+    url: https://github.com/skill121790/autoware.dstester/pacifica_vehicle_launch.git
     version: main
   # param
   param/autoware_individual_params:
