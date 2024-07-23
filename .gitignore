@@ -30,3 +30,7 @@ node_modules/
 
 # Docker build
 docker/src
+
+#  misc
+192.168.0-metadata.json
+pose_graph.g2o
